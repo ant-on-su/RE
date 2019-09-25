@@ -1,0 +1,7 @@
+seaborn
+sklearn
+lightgbm
+nltk
+gensim
+spacy
+chakin
